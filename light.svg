@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Haider Fareed, Full Stack Developer and AI/ML Engineer. React, TypeScript, Node.js, FastAPI, LangChain, and mobile AI projects." preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F5F8FF"/><stop offset="0.55" stop-color="#EAF1FF"/><stop offset="1" stop-color="#F5F8FF"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6957E8"><animate attributeName="stop-color" values="#6957E8;#087EFF;#0DAD7A;#6957E8" dur="12s" repeatCount="indefinite"/></stop>
+      <stop offset="0.55" stop-color="#087EFF"><animate attributeName="stop-color" values="#087EFF;#0DAD7A;#6957E8;#087EFF" dur="12s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#0DAD7A"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#087EFF" stop-opacity=".18"/><stop offset="1" stop-color="#087EFF" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#D9E6F8" stroke-width=".7" opacity=".65"/></pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#F5F8FF" flood-opacity=".25"/></filter>
+    <clipPath id="frame"><rect x="18" y="18" width="1144" height="574" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1180" height="610" fill="url(#background)"/>
+    <rect width="1180" height="610" fill="url(#grid)" opacity=".62"/>
+    <circle cx="210" cy="210" r="300" fill="url(#glow)"><animate attributeName="cx" values="210;280;210" dur="18s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="470" r="260" fill="url(#glow)" opacity=".7"/>
+    <rect x="18" y="18" width="1144" height="574" rx="24" fill="none" stroke="#CFDDF1" stroke-width="1.5"/>
+    <rect x="19" y="19" width="1142" height="48" rx="23" fill="#FFFFFF" opacity=".96"/>
+    <path d="M19 66H1161" stroke="#CFDDF1"/>
+    <circle cx="45" cy="43" r="5.5" fill="#FF6B75"/><circle cx="64" cy="43" r="5.5" fill="#FFC65C"/><circle cx="83" cy="43" r="5.5" fill="#42DCA0"/>
+    <text x="108" y="48" font-family="Consolas, Menlo, monospace" font-size="13" fill="#5B6B84">haider@profile:~</text>
+    <rect x="1000" y="30" width="135" height="26" rx="13" fill="#0DAD7A" fill-opacity=".10" stroke="#0DAD7A" stroke-opacity=".5"/>
+    <circle cx="1016" cy="43" r="4" fill="#0DAD7A"><animate attributeName="opacity" values="1;.45;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <text x="1027" y="47" font-family="Consolas, Menlo, monospace" font-size="11" fill="#0DAD7A">OPEN TO BUILD</text>
+
+    <!-- left identity panel -->
+    <rect x="42" y="88" width="390" height="476" rx="18" fill="#FFFFFF" fill-opacity=".84" stroke="#CFDDF1" filter="url(#shadow)"/>
+    <text x="66" y="119" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="2" fill="#087EFF">VISUAL.MAP / 01</text>
+    <text x="407" y="119" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="10" fill="#60799D">IDENTITY.NODE</text>
+    <rect x="66" y="137" width="342" height="226" rx="12" fill="#F0F6FF" stroke="#CFDDF1"/>
+    <g transform="translate(237 249)" font-family="Consolas, Menlo, monospace" text-anchor="middle" font-size="14" fill="url(#accent)">
+      <text y="-75" opacity=".4">. : + * # % @ # * + : .</text>
+      <text y="-57" opacity=".55">: + * # % @ @ % # * + :</text>
+      <text y="-39" opacity=".7">+ * # % @ @ @ @ % # * +</text>
+      <text y="-21" opacity=".82">* # % @  &lt; / &gt;  @ % # *</text>
+      <text y="-3"># % @ @  CODE  @ @ % #</text>
+      <text y="15" opacity=".85">* # % @  &lt; / &gt;  @ % # *</text>
+      <text y="33" opacity=".7">+ * # % @ @ @ @ % # * +</text>
+      <text y="51" opacity=".55">: + * # % @ @ % # * + :</text>
+      <text y="69" opacity=".4">. : + * # % @ # * + : .</text>
+      <animate attributeName="opacity" values=".82;1;.82" dur="5s" repeatCount="indefinite"/>
+    </g>
+    <path d="M83 327H391" stroke="#CFDDF1" stroke-dasharray="3 6"/>
+    <text x="237" y="348" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="10" letter-spacing="2" fill="#5B6B84">BUILD · ITERATE · SHIP</text>
+    <text x="66" y="402" font-family="Consolas, Menlo, monospace" font-size="11" fill="#60799D">$ whoami</text>
+    <text x="66" y="431" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#14213D">Haider Fareed</text>
+    <text x="66" y="457" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#087EFF">Full Stack Developer · AI/ML Engineer</text>
+    <text x="66" y="489" font-family="Consolas, Menlo, monospace" font-size="12" fill="#5B6B84">Turning ideas into useful software.</text>
+    <text x="66" y="529" font-family="Consolas, Menlo, monospace" font-size="12" fill="#0DAD7A">~/profile $ build --ship <tspan fill="#14213D">_</tspan></text>
+    <rect x="66" y="543" width="342" height="2" rx="1" fill="url(#accent)"/>
+
+    <!-- right system panel -->
+    <rect x="454" y="88" width="684" height="476" rx="18" fill="#FFFFFF" fill-opacity=".88" stroke="#CFDDF1" filter="url(#shadow)"/>
+    <text x="482" y="119" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="2" fill="#087EFF">SYSTEM.INFO / 02</text>
+    <text x="1110" y="119" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="10" fill="#60799D">PROFILE.SH</text>
+    <rect x="480" y="137" width="632" height="43" rx="9" fill="#F0F6FF" stroke="#CFDDF1"/>
+    <text x="498" y="163" font-family="Consolas, Menlo, monospace" font-size="12" fill="#0DAD7A">$ ./profile.sh</text>
+    <text x="1090" y="163" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="11" fill="#5B6B84">status: evolving</text>
+
+    <g font-family="Consolas, Menlo, monospace" font-size="12">
+      <text x="488" y="213" fill="#60799D">&gt; ROLE</text><text x="620" y="213" fill="#14213D">Full Stack Developer / AI-ML Engineer</text>
+      <text x="488" y="243" fill="#60799D">&gt; FOCUS</text><text x="620" y="243" fill="#14213D">Web platforms · AI agents · Mobile AI</text>
+      <text x="488" y="273" fill="#60799D">&gt; FRONTEND</text><text x="620" y="273" fill="#14213D">React · TypeScript · Tailwind CSS</text>
+      <text x="488" y="303" fill="#60799D">&gt; BACKEND</text><text x="620" y="303" fill="#14213D">Node.js · Express · FastAPI</text>
+      <text x="488" y="333" fill="#60799D">&gt; AI / ML</text><text x="620" y="333" fill="#14213D">LangChain · Gemini · YOLO</text>
+      <text x="488" y="363" fill="#60799D">&gt; DATA</text><text x="620" y="363" fill="#14213D">PostgreSQL · MySQL · MongoDB</text>
+    </g>
+    <path d="M482 386H1110" stroke="#CFDDF1"/>
+    <text x="488" y="410" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1.5" fill="#6957E8">SELECTED BUILDS</text>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="482" y="425" width="198" height="57" rx="9" fill="#F0F6FF" stroke="#CFDDF1"/>
+      <text x="496" y="447" font-size="13" font-weight="700" fill="#14213D">AI Sales Agent</text>
+      <text x="496" y="466" font-size="10.5" fill="#5B6B84">Website-grounded RAG + leads</text>
+      <rect x="692" y="425" width="198" height="57" rx="9" fill="#F0F6FF" stroke="#CFDDF1"/>
+      <text x="706" y="447" font-size="13" font-weight="700" fill="#14213D">Guide Nest</text>
+      <text x="706" y="466" font-size="10.5" fill="#5B6B84">Accessible mobile AI assistant</text>
+      <rect x="902" y="425" width="208" height="57" rx="9" fill="#F0F6FF" stroke="#CFDDF1"/>
+      <text x="916" y="447" font-size="13" font-weight="700" fill="#14213D">CRM System</text>
+      <text x="916" y="466" font-size="10.5" fill="#5B6B84">Leads, properties &amp; workflows</text>
+    </g>
+    <text x="488" y="517" font-family="Consolas, Menlo, monospace" font-size="11" fill="#60799D">CONNECT</text>
+    <text x="570" y="517" font-family="Consolas, Menlo, monospace" font-size="12" fill="#087EFF">github.com/haider-dev-coder</text>
+    <text x="488" y="541" font-family="Consolas, Menlo, monospace" font-size="11" fill="#5B6B84">Curious by default. Practical by design.</text>
+    <rect x="18" y="18" width="1144" height="574" rx="24" fill="none" stroke="url(#accent)" stroke-width="1.2" stroke-opacity=".7"/>
+  </g>
+</svg>
