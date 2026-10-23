@@ -104,20 +104,6 @@ Android · Java · CameraX · Git · GitHub · Postman
 - Improving full-stack architecture, API integration, and authentication flows
 - Practical applications of LLMs, RAG pipelines, AI agents, and computer vision
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haider-dev-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haider-dev-coder&theme=tokyonight&hide_border=true&background=030712&stroke=1E3050&ring=7C3AED&fire=22D3EE&currStreakLabel=F8FAFC" alt="GitHub Streak" />
-</p>
-
----
-
 ## Connect
 
 | | |
